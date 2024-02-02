@@ -6,4 +6,4 @@ An AI powered ✨ **English Premier League** win predictor! 🎯
 
 ![image](https://github.com/saranggalada/EPL-Win-Predictor/blob/main/img/website.png?raw=true)
 
-*Copyright (c) 2024 Sarang Galada*
+*Copyright (c) 2024 ADARSH RANJAN*
